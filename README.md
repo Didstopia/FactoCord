@@ -5,6 +5,8 @@
 <a href="https://travis-ci.org/FactoKit/FactoCord"><img src="https://travis-ci.org/FactoKit/FactoCord.svg?branch=master"</img></a>
 </p>
 
+**NOTE:** This is a fork of the original FactoCord, which updates its dependencies and wraps it in a simple Docker container.
+
 # Running
 *Make sure you have your .env file in the same directory as the executable/binary, you can use .envexample the template*
 

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/FactoKit/FactoCord/support"
+	"github.com/Didstopia/FactoCord/support"
 	"github.com/bwmarrin/discordgo"
 )
 

@@ -3,7 +3,7 @@ package admin
 import (
 	"io"
 
-	"github.com/FactoKit/FactoCord/support"
+	"github.com/Didstopia/FactoCord/support"
 	"github.com/bwmarrin/discordgo"
 )
 
